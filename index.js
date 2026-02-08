@@ -12,4 +12,4 @@ else if (heroXP > 8000 && heroXP <=9000) {heroLevel = "Ascendente"}
 else if (heroXP > 9000 && heroXP <=10000) {heroLevel = "Imortal"}
 else  {heroLevel = "Radiante"}
 
-console.log(`O herói de nome ${heroName} está no nível ${heroLevel}`);
+console.log(`O herói de nome **${heroName}** está no nível **${heroLevel}**`);
